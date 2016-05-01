@@ -9,6 +9,9 @@ __pycache__/
 # PyCharm IDE
 .idea/
 
+# Bower Components
+bower_components/
+
 # Distribution / packaging
 .Python
 env/
