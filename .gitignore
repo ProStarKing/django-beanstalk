@@ -12,6 +12,9 @@ __pycache__/
 # Bower Components
 bower_components/
 
+# Django Static Files Directory
+static_files/
+
 # Distribution / packaging
 .Python
 env/
